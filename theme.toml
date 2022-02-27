@@ -1,18 +1,16 @@
 name = "after-dark"
-description = "A robust, elegant dark theme"
+description = "a fork of Vincent Prouillet's after-dark by Sharif Haason"
 license = "MIT"
-homepage = "https://github.com/getzola/after-dark"
-min_version = "0.11.0"
-demo = "https://zola-after-dark.netlify.com"
+homepage = "https://sharifhsn.github.io"
+min_version = "0.15.0"
 
 [extra]
 
-
 [author]
-name = "Vincent Prouillet"
-homepage = "https://www.vincentprouillet.com"
+name = "Sharif Haason"
+homepage = "https://sharifhsn.github.io"
 
 [original]
-author =  "comfusion"
-homepage = "https://git.habd.as/comfusion/after-dark/"
-repo = "https://git.habd.as/comfusion/after-dark/"
+name = "Vincent Prouillet"
+homepage = "https://www.vincentprouillet.com"
+repo = "https://github.com/getzola/after-dark"
