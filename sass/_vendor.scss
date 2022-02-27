@@ -292,9 +292,8 @@ a:hover {
   line-height: 20px
 }
 
-.hack em:after, .hack em:before {
-  content: "*";
-  display: inline
+.hack em {
+  font-style: italic;
 }
 
 .hack pre code:after, .hack pre code:before {
